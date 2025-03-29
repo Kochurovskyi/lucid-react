@@ -75,4 +75,4 @@ Access the application in your browser at http://localhost:3000.
 
 ### ...or Just run it from here...:
 
-www.
+https://lucid-react.vercel.app/
