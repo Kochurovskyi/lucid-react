@@ -64,7 +64,7 @@ Libraries and Tools: Zustand and React Query were used for state management, and
 
 ### Challenges:
 
-Implementing the attached dropdown for each tag remains incomplete due to time constraints.
+Implementing the attached dropdown for each tag remains incomplete due to time constraints. Tagged variables are still chelangieng
 
 ### How to Run the Project
 
