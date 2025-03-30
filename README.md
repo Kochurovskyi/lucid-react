@@ -2,6 +2,10 @@
 
 This project implements a formula input functionality inspired by the UI and behavior seen in Causal. The goal was to replicate the hybrid input field with autocomplete, tag-based inputs, and formula evaluation features. Below is a summary of the task requirements, features implemented, and the current status of the project.
 
+#### Have fun..: https://lucid-react.vercel.app/
+
+![Application Screenshot](https://github.com/Kochurovskyi/lucid-react/blob/main/app_react.png)
+
 ## Features Implemented
 
 ### State Management
